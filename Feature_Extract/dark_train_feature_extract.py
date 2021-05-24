@@ -1,6 +1,4 @@
-#Used to train over all the image features generated on the DWT COVID train dataset
-#and insert obtained features in MySQL database
-#Network that will train and test on the normal COVID dataset images
+#DarkNet Sample Network
 import os
 import tensorflow as tf
 import numpy as np
